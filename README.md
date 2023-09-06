@@ -45,14 +45,46 @@ Here we add a new role by following Admin Panel -> Agents -> Roles.
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here we add a new department by following Admin Panel -> Agents -> Departments.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![image](https://github.com/techwiz77777/post-install-config/assets/143854558/90175bdb-0c70-4a27-93c9-5282e04810cc)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Here after we configured the departments and teams, we allow anyone to create tickets by following: Admin Panel-> Settings -> Authentication Settings.
+</p>
+<br />
+
+<p>
+![image](https://github.com/techwiz77777/post-install-config/assets/143854558/f7ce147a-a5f2-4012-85f2-ca6d80dfcfb7)
+</p>
+<p>
+Here we add agents (workers) by following: Admin Panel -> Agents -> Add New.
+</p>
+<br />
+
+<p>
+![image](https://github.com/techwiz77777/post-install-config/assets/143854558/8fce0ca0-a4de-43dd-89d5-812791bee03b)
+</p>
+<p>
+Here we add users (Customers) by following: Agent Panel -> Users -> Add New
+</p>
+<br />
+
+<p>
+![image](https://github.com/techwiz77777/post-install-config/assets/143854558/b886d56e-0aa6-4d41-b4ba-de215d89956e)
+</p>
+<p>
+Here we configure a new SLA by following: Admin Panel -> Manage -> SLA 
+</p>
+<br />
+
+<p>
+![image](https://github.com/techwiz77777/post-install-config/assets/143854558/a1920152-88fd-4dbd-9bbd-c7706eccdafd)
+</p>
+<p>
+Here we configure help topics by following: Admin Panel -> Manage -> Help Topics
 </p>
 <br />
