@@ -33,6 +33,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
+  
 ![image](https://github.com/techwiz77777/post-install-config/assets/143854558/ff40c725-e4ac-45b4-a056-afa5de10878c)
 </p>
 <p>
@@ -41,6 +42,7 @@ Here we add a new role by following Admin Panel -> Agents -> Roles.
 <br />
 
 <p>
+  
 ![image](https://github.com/techwiz77777/post-install-config/assets/143854558/705e3c95-f22f-4c2c-8060-57d20e246335)
 
 </p>
@@ -50,6 +52,7 @@ Here we add a new department by following Admin Panel -> Agents -> Departments.
 <br />
 
 <p>
+  
 ![image](https://github.com/techwiz77777/post-install-config/assets/143854558/90175bdb-0c70-4a27-93c9-5282e04810cc)
 </p>
 <p>
@@ -58,6 +61,7 @@ Here after we configured the departments and teams, we allow anyone to create ti
 <br />
 
 <p>
+  
 ![image](https://github.com/techwiz77777/post-install-config/assets/143854558/f7ce147a-a5f2-4012-85f2-ca6d80dfcfb7)
 </p>
 <p>
@@ -66,6 +70,7 @@ Here we add agents (workers) by following: Admin Panel -> Agents -> Add New.
 <br />
 
 <p>
+  
 ![image](https://github.com/techwiz77777/post-install-config/assets/143854558/8fce0ca0-a4de-43dd-89d5-812791bee03b)
 </p>
 <p>
@@ -74,6 +79,7 @@ Here we add users (Customers) by following: Agent Panel -> Users -> Add New
 <br />
 
 <p>
+  
 ![image](https://github.com/techwiz77777/post-install-config/assets/143854558/b886d56e-0aa6-4d41-b4ba-de215d89956e)
 </p>
 <p>
@@ -82,6 +88,7 @@ Here we configure a new SLA by following: Admin Panel -> Manage -> SLA
 <br />
 
 <p>
+  
 ![image](https://github.com/techwiz77777/post-install-config/assets/143854558/a1920152-88fd-4dbd-9bbd-c7706eccdafd)
 </p>
 <p>
